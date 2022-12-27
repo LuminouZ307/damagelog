@@ -1,0 +1,10 @@
+{
+	"user": "LuminouZ307",
+	"repo": "damagelog",
+	"tag": "0.0.1",
+	"entry": "damagelog.pwn",
+	"output": "gamemodes/damagelog.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}

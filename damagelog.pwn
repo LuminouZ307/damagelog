@@ -159,7 +159,7 @@ ShowDamageToPlayer(playerid, show_to_id) {
         return 0;
 
     if(!CountPlayerDamage(playerid)) {
-        SendClientMessage(show_to_id, -1, "There is no damages to display...");
+        return SendClientMessage(show_to_id, -1, "There is no damages to display...");
     }
 
     new string[1012], weapon_name[24];

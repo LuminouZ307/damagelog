@@ -42,6 +42,7 @@ Include in your code and begin using the library:
 
 ## Usage
 
+This script is for player-damaging logs
 <!--
 Write your code documentation or examples here. If your library is documented in
 the source code, direct users there. If not, list your API and describe it well
